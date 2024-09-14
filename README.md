@@ -3,6 +3,5 @@
 
 - 🔭 I’m currently working on a **Real-Time Resume Builder**
 
-- 👯 I’m looking to collaborate on **Web Based Projects**
+- 👯 I’m looking to collaborate on some **Web Based Projects**
 
-<h3 align="left">Languages and Tools:</h3>
