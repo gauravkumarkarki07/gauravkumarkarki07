@@ -1,4 +1,4 @@
-Hi there 👋, I'm Gaurav Kumar Karki
+<h1>Hi there 👋, I'm Gaurav Kumar Karki></h1>
 🚀 Passionate Software Engineer from Nepal
 🔭 Currently working on an exciting Real-Time Resume Builder project, collaborating with a team of talented software engineers to deliver an innovative and user-friendly experience.
 
